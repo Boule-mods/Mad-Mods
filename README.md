@@ -26,9 +26,9 @@ Le cœur de ce système est un microcontrôleur (Raspberry Pi Pico) et un contro
 - Le systme peut prendre un signal audio et en prouduire un sur deux types de connecteur d'utilisation courante
 - 
 
-![Produit fermé](medias/photos/Réalisation.jpg)
+![Produit fermé](Boule-mods/ModsMad-Mods/medias/photos/Réalisation.jpg)
 
-![Produit ouvert](medias/photos/Boitier_ouvert.jpg)
+![Produit ouvert](Boule-mods/Mad-Mods/medias/photos/Boitier_ouvert.jpg)
 
 ## Logiciels utilisés
 
