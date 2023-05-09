@@ -25,7 +25,8 @@ Le cœur de ce système est un microcontrôleur (Raspberry Pi Pico) et un contro
 - Le système est capable d'affecter un signal audio avec jusqu'à 3 effets audio simultanément
 - Le systme peut prendre un signal audio et en prouduire un sur deux types de connecteur d'utilisation courante
 
-![Produit fermé](medias/Photos/Boitier_ouvert.JPG)
+![Produit fermé](medias/Photos/Réalisation.JPG)
+
 
 ![Produit ouvert](medias/Photos/Boitier_ouvert.JPG)
 
