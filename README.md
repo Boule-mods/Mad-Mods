@@ -27,7 +27,7 @@ Le cœur de ce système est un microcontrôleur (Raspberry Pi Pico) et un contro
 
 ![Produit fermé](medias/Photos/Boitier_ouvert.JPG)
 
-![Produit ouvert](medias/Photos/Boitier_ouvert.jpg)
+![Produit ouvert](medias/Photos/Boitier_ouvert.JPG)
 
 ## Logiciels utilisés
 
