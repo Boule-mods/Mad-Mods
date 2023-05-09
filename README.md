@@ -1,9 +1,5 @@
 # Pédale de modulation multi-effets pour guitare électrique
 
-## Participant
-
-- Colin Boulé
-
 ## Contexte et objectifs
 
 L'industrie de la musique c'est rapidement développé au cours des dernières décennies et avec l'évolution de la musique nous avons aussi observé le développment de plusieurs nouvelles technologies. Parmis ces technologies une des plus vieilles est la pédale de modulation. Cet outils que les guitarists utilise permet de changer le son produit par un instrument électrique. De nos jours ces appareils sont très dispandieux et chacune ne permet qu'un seul effet sonore. Souvent, les musiciens requiert plusieurs de ces pédales et cela peux devenir encombrant et surtout une dépense considérable. 
