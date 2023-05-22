@@ -1,0 +1,2 @@
+Le PCB motherboard comprend aussi les modules de distortion, fuzz, tremolo et vibrato.
+Le board2 contient le module de bouton ainsi que les modules de chorus et de reverb.
